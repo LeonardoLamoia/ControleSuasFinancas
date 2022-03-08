@@ -9,7 +9,7 @@ GoFinance
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
-![alt-text](https://github.com/LeonardoLamoia/to_do_ignite/blob/main/to-do.gif)
+![alt-text](https://github.com/LeonardoLamoia/ControleSuasFinancas/blob/main/gofinance.gif)
 
 ## 🚀 Tecnologias
 
