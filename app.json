@@ -6,8 +6,27 @@
     "slug": "gofinances",
     "scheme": "gofinances",
     "version": "1.0.0",
+    "icon": "./src/assets/icon.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5636D3"
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#00000000"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#5636D3"
+      }
+    },
+    "description": "O GoFinances aplicativo para controlar suas finanças.",
+    "githubUrl": "https://github.com/LeonardoLamoia/GoFinance_Control-Finances"
   }
-}
+  }
+
